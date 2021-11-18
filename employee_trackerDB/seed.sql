@@ -27,14 +27,14 @@ VALUES
 INSERT INTO employee
     (first_name, last_name, role_id, manager_id)
 VALUES
-    ('Tahut', 'Derbew', 1, NULL),
-    ('Fatima', 'Abubaker', 2, NULL),
-    ('Kanan', 'Neguse', 3, NULL),
+    ('Samod', 'Omer', 1, NULL),
+    ('Fatima', 'Abubeker', 2, NULL),
+    ('Knaan', 'Neguse', 3, NULL),
     ('Aster', 'Aweke', 4, NULL),
     ('Tilhaun', 'Gessese', 5, NULL),
     ('Teddy', 'Afro', 6, NULL),
     ('Haile', 'Silase', 5, NULL),
     ('Aida', 'Dese', 2, NULL);
-    ('Tzshey', 'Teklo', 3, NULL);
+    ('Abebe', 'Bikila', 3, NULL);
     ('Negusse', 'Dejene', 4, NULL);
     ('Mohammed', 'Hassen', 1, NULL);
